@@ -1,7 +1,7 @@
 {
-  "name": "BARAKA MD",
-  "description": "Hi there, I am Baraka Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
-  "logo": "https://telegra.ph/file/6c303aae067284c32b90d.jpg",
+  "name": "JOEL MD",
+  "description": "Hi there, I am Joel Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
+  "logo": "https://telegra.ph/file/798e6256fa919a62243a6.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "Mr baraka",
+      "value": "Mr Joel",
       "required" :true
     },   
     
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " Name Of Bot",
       "required" :true,    
-      "value": "𝘽𝘼𝙍𝘼𝙆𝘼-𝙈𝘿"
+      "value": "JOEL-MD"
     }, 
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255762190568,255679513639,254710772666,254739937062"
+      "value": "255767570963,255714595078,255781144539,255768886545"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -137,7 +137,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Mr baraka",
+      "value": "Mr Joel",
       "required": true 
     },
     "PACK_AUTHER": {
